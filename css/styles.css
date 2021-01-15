@@ -22,25 +22,27 @@ p {
 	position: relative;
 	float: right;
 	border: 1px solid black;
-	padding: 10px;
+	padding: 10px 30px 10px 30px;
 	color: white;
 	background-color: #ff9999;
+	text-align: center;
 }
 
 .top-2 {
 	position: relative;
 	float: right;
 	border: 1px solid black;
-	padding: 10px;
+	padding: 10px 40px 10px 40px;
 	color: white;
 	background-color: #993333;
+	text-align: center;
 }
 
 .top-3 {
 	position: relative;
 	float: right;
 	border: 1px solid black;
-	padding: 10px;
+	padding: 10px 35px 10px 35px;
 	color: white;
 	background-color: #ff9933;
 }
