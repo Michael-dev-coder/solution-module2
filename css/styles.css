@@ -27,6 +27,7 @@ p {
 	background-color: #ff9999;
 	text-align: center;
 	font-weight: bold;
+	font-size: 20px;
 }
 
 .top-2 {
@@ -38,6 +39,7 @@ p {
 	background-color: #993333;
 	text-align: center;
 	font-weight: bold;
+	font-size: 20px;
 }
 
 .top-3 {
@@ -48,6 +50,7 @@ p {
 	color: white;
 	background-color: #ff9933;
 	font-weight: bold;
+	font-size: 20px;
 }
 
 .content {
